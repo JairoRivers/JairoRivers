@@ -7,8 +7,6 @@
 🌱 Estou no caminho  para aprender mais sobre Desenvolvimento Web e Banco de Dados.\
 ✉️ Você pode me enviar um e-mail para jairo.rios22@hotmail.com\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,14 +20,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-</p>
-</p>
-</p>
+
 ### ⚙️ &nbsp;Análise do GitHub
 
 <p align="center">
 <a href="https://github.com/JairoRivers">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JairoRivers&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JairoRivers&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
