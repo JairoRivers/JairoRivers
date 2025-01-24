@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp; Informações Gerais
 
-💡 Gosto de explorar novas tecnologias e desenvolver ideias.\
+💡  Gosto de explorar novas tecnologias e desenvolver ideias.\
 🎓 Sou formado em Sistema da Informação, e estou focado em busca novos conhecimento através de cursos.\
 🌱 Estou no caminho  para aprender mais sobre Desenvolvimento Web e Banco de Dados.\
 ✉️ Você pode me enviar um e-mail para jairo.rios22@hotmail.com\
