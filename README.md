@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Olá! Prazer, meu nome é Jairo 🤙-->
 
-### 👨🏻‍💻 &nbsp; Info
+### 👨🏻‍💻 &nbsp; Informações Gerais
 
 💡 Gosto de explorar novas tecnologias e desenvolver ideias.\
 🎓 Sou formado em Sistema da Informação, e estou focado em busca novos conhecimento através de cursos.\
@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/JairoRivers">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JairoRivers&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
