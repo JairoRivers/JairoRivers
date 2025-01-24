@@ -5,7 +5,7 @@
 💡  Gosto de explorar novas tecnologias e desenvolver ideias.\
 🎓 Sou formado em Sistema da Informação, e estou focado em busca novos conhecimento através de cursos.\
 🌱 Estou no caminho  para aprender mais sobre Desenvolvimento Web e Banco de Dados.\
-✉️ Você pode me enviar um e-mail para jairo.rios22@hotmail.com\
+✉️ Você pode me enviar um e-mail para jairo.rios22@hotmail.com
 
 ### 🛠 &nbsp;Tecnologias
 
@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/JairoRivers">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JairoRivers&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JairoRivers&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JairoRivers&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 </p>
